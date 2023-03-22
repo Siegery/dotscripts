@@ -1,7 +1,7 @@
 # dotscripts
 
 To install links to scripts:
-'make'
+`make`
 
 To unlink and copy files into bin:
-'make unlink'
+`make unlink`
