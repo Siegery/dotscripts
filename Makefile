@@ -1,6 +1,6 @@
 link:
-        @ln -s ~/.scripts/makehtml ~/bin/makehtml
-        @ln -s ~/.scripts/makeflask ~/bin/makeflask
+        @ln -sf ~/.scripts/makehtml ~/bin/makehtml
+        @ln -sf ~/.scripts/makeflask ~/bin/makeflask
 
 unlink:
         @rm ~/bin/makehtml
